@@ -2,6 +2,7 @@
 
 <p align="middle">
   <img alt="ALS" src="https://github.com/dagrate/vechgrad/blob/master/images/bus_als.png" width="100px" alt="ALS" title="ALS" >
+  ![Here is the alt text](https://github.com/dagrate/vechgrad/blob/master/images/bus_als.png "Here is the Title text")
 </p>
 
 <p align="middle">
