@@ -1,6 +1,6 @@
 # VecHGrad: Vector Hessian Gradient product to solve accurately complex tensor decomposition and ML/DL applications
 
-![Here is the alt text](https://github.com/dagrate/vechgrad/blob/master/images/bus_als.png "Here is the Title text")
+![alt](https://github.com/dagrate/vechgrad/blob/master/images/bus_als.png "Here is the Title text")
 
 <p align="middle">
   <img alt="ALS" src="https://github.com/dagrate/vechgrad/blob/master/images/bus_als.png" width="100px" alt="ALS" title="ALS" >  
