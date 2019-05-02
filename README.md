@@ -7,6 +7,7 @@
   <img src="https://github.com/dagrate/vechgrad/blob/master/images/bus_adam.png" width="100"/>
   <img src="https://github.com/dagrate/vechgrad/blob/master/images/bus_rmsprop.png" width="100"/>
   
+  
   <img src="https://github.com/dagrate/vechgrad/blob/master/images/bus_saga.png" width="100" />
   <img src="https://github.com/dagrate/vechgrad/blob/master/images/bus_adagrad.png" width="100"/>
   <img src="https://github.com/dagrate/vechgrad/blob/master/images/bus_bfgs.png" width="100"/>
