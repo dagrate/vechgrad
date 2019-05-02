@@ -1,4 +1,4 @@
-# VecHGrad: Vector Hessian Gradient product to solve accurately complex tensor decomposition and ML/DL applications
+# VecHGrad: Vector Hessian Gradient product with strong Wolfe's line search to solve accurately complex tensor decomposition and ML/DL applications
 
 <p align="middle">
   <img src="https://github.com/dagrate/vechgrad/blob/master/images/bus_als.png" width="100" />
