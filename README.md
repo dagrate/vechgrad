@@ -1,7 +1,7 @@
 # VecHGrad: Vector Hessian Gradient product to solve accurately complex tensor decomposition and ML/DL applications
 
 <p align="middle">
-  <img alt="ALS" src="https://github.com/dagrate/vechgrad/blob/master/images/bus_als.png" width="100" alt="Ninja in the shadows" title="Hidden Ninja" >
+  <img alt="ALS" src="https://github.com/dagrate/vechgrad/blob/master/images/bus_als.png" width="100px" alt="Ninja in the shadows" title="Hidden Ninja" >
 </p>
 
 <p align="middle">
