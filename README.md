@@ -3,7 +3,8 @@
 ![alt](https://github.com/dagrate/vechgrad/blob/master/images/bus_als.png "Here is the Title text")
 
 <p align="middle">
-  <img alt="ALS" src="https://github.com/dagrate/vechgrad/blob/master/images/bus_als.png" width="100px" alt="ALS" title="ALS" >  
+  <img alt="ALS" src="https://github.com/dagrate/vechgrad/blob/master/images/bus_als.png" width="100px" alt="ALS" title="ALS" > 
+  "ALS"
 </p>
 
 <p align="middle">
