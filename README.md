@@ -11,10 +11,11 @@
 <p align="middle">
   <img src="https://github.com/dagrate/vechgrad/blob/master/images/bus_saga.png" width="100" />
   <img src="https://github.com/dagrate/vechgrad/blob/master/images/bus_adagrad.png" width="100"/>
+  <img src="https://github.com/dagrate/vechgrad/blob/master/images/bus_ncg.png" width="100"/>
   <img src="https://github.com/dagrate/vechgrad/blob/master/images/bus_bfgs.png" width="100"/>
   <img src="https://github.com/dagrate/vechgrad/blob/master/images/bus_vechgrad.png" width="100"/>
 </p>
 
-**From left to right: ALS, SGD, NAG, ADAM,  **
+**From left to right: ALS, SGD, NAG, ADAM, RMSPROP, SAGA, ADAGRAD, NCG, BFGS, VECHGRAD**
 
 The code will be uploaded very shortly.
