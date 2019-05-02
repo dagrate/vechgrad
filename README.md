@@ -6,14 +6,15 @@
   <img src="https://github.com/dagrate/vechgrad/blob/master/images/bus_nag.png" width="100"/>
   <img src="https://github.com/dagrate/vechgrad/blob/master/images/bus_adam.png" width="100"/>
   <img src="https://github.com/dagrate/vechgrad/blob/master/images/bus_rmsprop.png" width="100"/>
-  
-  
+</p>
+
+<p align="middle">
   <img src="https://github.com/dagrate/vechgrad/blob/master/images/bus_saga.png" width="100" />
   <img src="https://github.com/dagrate/vechgrad/blob/master/images/bus_adagrad.png" width="100"/>
   <img src="https://github.com/dagrate/vechgrad/blob/master/images/bus_bfgs.png" width="100"/>
   <img src="https://github.com/dagrate/vechgrad/blob/master/images/bus_vechgrad.png" width="100"/>
-  
-  From left to right: ALS, SGD, NAG, ADAM,  
 </p>
+
+**From left to right: ALS, SGD, NAG, ADAM,  **
 
 The code will be uploaded very shortly.
