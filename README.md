@@ -20,6 +20,7 @@
 
 VecHGrad, a numerical optimizer, is part of a Julia library that proposes to evaluate the convergence and the strengths of the different numerical optimizers used in machine learning and deep learning in the context of linear algebra and tensors. We assess the accuracy of SGD, NAG, ADAM, RMSPROP, SAGA, ADAGRAD, NCG, BFGS and VecHGrad on popular data sets including CIFAR-10, CIFAR-100, MNIST, COCO, LFW. Since we perform our experiments on linear algebra, we also included the ALS method. The strength of VecHGrad is to include Hessian approximate information and an adaptive line search that relies on the strong Wolfe's line search for faster convergence.
 
+N.B. To be able to reproduce the experiments on (almost) any computer, we have reduced the size of the data sets originally presented in our paper. However, the conclusions and the findings remain identical.
 
 ----------------------------
 
